@@ -85,13 +85,19 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
-![output]![Alt text](<max of marks list 1 question.png>)
-![output]![Alt text](<max of mark list 2 question.png>)
-![output]![Alt text](<max of mark list question 3.png>)
+![output]![max of marks list 1 question](https://github.com/tamizhselvan23013460/FindMaximum/assets/150231370/2963d5b9-c23d-4e34-841b-549ad6f0165e)
+![output]![max of mark list 2 question](https://github.com/tamizhselvan23013460/FindMaximum/assets/150231370/9ca48504-0c16-4001-80ae-c315d5c06f38)
+![output]![max of mark list question 3](https://github.com/tamizhselvan23013460/FindMaximum/assets/150231370/45b633bf-59c4-428a-809e-a8e6e07affe4)
+
+
+
 ## Output:
-![output]![Alt text](<max of mark list 1.png>)
-![output]![Alt text](<max of list mark 2 .png>)
-![output]![Alt text](<max of mark list 3.png>)
+![output]![max of mark list 1](https://github.com/tamizhselvan23013460/FindMaximum/assets/150231370/04d64c68-0a2c-43e3-99c5-2e5b82ceec60)
+
+![output]![max of list mark 2 ](https://github.com/tamizhselvan23013460/FindMaximum/assets/150231370/fce9fc1c-58cf-4f92-8333-ee07e33d6636)
+
+![output]![max of mark list 3](https://github.com/tamizhselvan23013460/FindMaximum/assets/150231370/11df48f7-0ec8-4ba9-b6c8-272f1c9379e2)
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
